@@ -30,7 +30,8 @@ public class Main {
         boolean kosul2 = ortalama < 60;
         String str = (kosul1) ? "Sınıfı geçtiniz.": "kaldınız";
                 System.out.println(str);
-                System.out.println(kosul2);
+                System.out.println(kosul2);ü
+        System.out.println(kosul2);
 
     }
     }
